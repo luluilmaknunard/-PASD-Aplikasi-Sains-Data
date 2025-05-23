@@ -1,6 +1,4 @@
 # Aplikasi Prediksi Harga Rumah
-
-**Deskripsi dan Konsep Aplikasi **
   Aplikasi rekomendasi harga rumah ini merupakan platform yang dirancang untuk 
 membantu pengguna dalam menilai dan menemukan harga rumah dengan akurat. Aplikasi ini 
 mampu memberikan estimasi harga properti berdasarkan lokasi dan luas tanah dari bangunan 
