@@ -1,0 +1,4 @@
+Spesifikasi Aplikasi Prediksi Harga Rumah
+1. Menginput data properti
+2. Memprediksi harga rumah sesuai dengan keadaannya
+3. Menampilkan hasil prediksi
